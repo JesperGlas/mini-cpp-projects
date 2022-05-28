@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/line-count.dir/src/main.cpp.o  -o ../../bin/line-count 

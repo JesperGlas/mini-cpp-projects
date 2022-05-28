@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/jesper/dev/cpp/mini-cpp-projects/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/mini-cpp-projects.dir/main.cpp.o -c /home/jesper/dev/cpp/mini-cpp-projects/main.cpp",
+  "file": "/home/jesper/dev/cpp/mini-cpp-projects/main.cpp"
+},
+{
+  "directory": "/home/jesper/dev/cpp/mini-cpp-projects/build/projects/line-count",
+  "command": "/usr/bin/g++   -I/home/jesper/dev/cpp/mini-cpp-projects/projects/line-count/include  -g   -std=gnu++14 -o CMakeFiles/line-count.dir/src/main.cpp.o -c /home/jesper/dev/cpp/mini-cpp-projects/projects/line-count/src/main.cpp",
+  "file": "/home/jesper/dev/cpp/mini-cpp-projects/projects/line-count/src/main.cpp"
+},
+{
+  "directory": "/home/jesper/dev/cpp/mini-cpp-projects/build/projects/vector-sort",
+  "command": "/usr/bin/g++   -I/home/jesper/dev/cpp/mini-cpp-projects/projects/vector-sort/include  -g   -std=gnu++14 -o CMakeFiles/vector-sort.dir/src/main.cpp.o -c /home/jesper/dev/cpp/mini-cpp-projects/projects/vector-sort/src/main.cpp",
+  "file": "/home/jesper/dev/cpp/mini-cpp-projects/projects/vector-sort/src/main.cpp"
+},
+{
+  "directory": "/home/jesper/dev/cpp/mini-cpp-projects/build/projects/vector-sort",
+  "command": "/usr/bin/g++   -I/home/jesper/dev/cpp/mini-cpp-projects/projects/vector-sort/include  -g   -std=gnu++14 -o CMakeFiles/vector-sort.dir/src/sort.cpp.o -c /home/jesper/dev/cpp/mini-cpp-projects/projects/vector-sort/src/sort.cpp",
+  "file": "/home/jesper/dev/cpp/mini-cpp-projects/projects/vector-sort/src/sort.cpp"
+}
+]

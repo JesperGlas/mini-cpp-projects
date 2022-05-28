@@ -1,0 +1,11 @@
+/home/jesper/dev/cpp/mini-cpp-projects/build/CMakeFiles/rebuild_cache.dir
+/home/jesper/dev/cpp/mini-cpp-projects/build/CMakeFiles/edit_cache.dir
+/home/jesper/dev/cpp/mini-cpp-projects/build/CMakeFiles/mini-cpp-projects.dir
+/home/jesper/dev/cpp/mini-cpp-projects/build/projects/CMakeFiles/rebuild_cache.dir
+/home/jesper/dev/cpp/mini-cpp-projects/build/projects/CMakeFiles/edit_cache.dir
+/home/jesper/dev/cpp/mini-cpp-projects/build/projects/line-count/CMakeFiles/rebuild_cache.dir
+/home/jesper/dev/cpp/mini-cpp-projects/build/projects/line-count/CMakeFiles/edit_cache.dir
+/home/jesper/dev/cpp/mini-cpp-projects/build/projects/line-count/CMakeFiles/line-count.dir
+/home/jesper/dev/cpp/mini-cpp-projects/build/projects/vector-sort/CMakeFiles/rebuild_cache.dir
+/home/jesper/dev/cpp/mini-cpp-projects/build/projects/vector-sort/CMakeFiles/edit_cache.dir
+/home/jesper/dev/cpp/mini-cpp-projects/build/projects/vector-sort/CMakeFiles/vector-sort.dir

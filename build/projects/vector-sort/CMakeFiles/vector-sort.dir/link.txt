@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/vector-sort.dir/src/main.cpp.o CMakeFiles/vector-sort.dir/src/sort.cpp.o  -o ../../bin/vector-sort 
